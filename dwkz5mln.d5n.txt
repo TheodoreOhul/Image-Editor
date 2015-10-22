@@ -1,0 +1,36 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe.sln
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe.v12.suo
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/App.config
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/App.xaml
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/App.xaml.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Image_Editor_Deluxe.csproj
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/MainWindow.xaml
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/MainWindow.xaml.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Properties/AssemblyInfo.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Properties/Resources.Designer.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Properties/Resources.resx
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Properties/Settings.Designer.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Properties/Settings.settings
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/Settings.StyleCop
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/StyleCopPlus.dll
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/bin/Debug/Image_Editor_Deluxe.exe.config
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/bin/Debug/Image_Editor_Deluxe.vshost.exe
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/bin/Debug/Image_Editor_Deluxe.vshost.exe.config
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/bin/Debug/Image_Editor_Deluxe.vshost.exe.manifest
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/App.g.i.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/Image_Editor_Deluxe.csproj.FileListAbsolute.txt
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/Image_Editor_Deluxe_MarkupCompile.i.cache
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/MainWindow.g.i.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   Image_Editor_Deluxe/Image_Editor_Deluxe/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#
+
